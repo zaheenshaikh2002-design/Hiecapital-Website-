@@ -9058,7 +9058,7 @@ header.header-four .header-top-wrapper {
 header.header-four .header-top-wrapper .left {
   display: flex;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   flex: 1;
   position: relative;
   padding-right: 100px;
